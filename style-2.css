@@ -1,0 +1,43 @@
+.wrapper {
+font-size: 200PX;
+width: 1850px;
+height: 200px;
+margin: 0 auto;
+border: 1px solid black;
+display: grid;
+float: left;
+text-align: center
+
+}
+.header{
+    font-size: 200PX;
+    width: 1400px;
+    height: 600px;
+    margin: 0 auto;
+    border: 1px solid black;
+    display: grid;
+    float: left;
+    text-align: center;
+    align-items: center;
+}
+.sidebar{
+    font-size: 100PX;
+    width: 450px;
+    height: 600px;
+    margin: 0 auto;
+    border: 1px solid black;
+    display: grid;
+    float: left;
+    text-align: center;
+    align-items: center;
+}
+.footer {
+    font-size: 200PX;
+    width: 1850px;
+    margin: 0 auto;
+    border: 1px solid black;
+    display: grid;
+    float: left;
+    text-align: center;
+    align-items: center;
+}
